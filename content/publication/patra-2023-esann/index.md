@@ -2,7 +2,7 @@
 title: Anomaly detection in irregular image sequences for concentrated solar power
   plant
 authors:
-- admin
+- Sukanya Patra
 - Le Thi Khanh Hien
 - Souhaib Ben Taieb
 date: '2023-01-01'

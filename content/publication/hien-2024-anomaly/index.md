@@ -2,7 +2,7 @@
 title: Anomaly detection with semi-supervised classification based on risk estimators
 authors:
 - Le Thi Khanh Hien
-- admin
+- Sukanya Patra
 - Souhaib Ben Taieb
 date: '2024-01-01'
 publishDate: '2025-01-04T12:12:28.067381Z'

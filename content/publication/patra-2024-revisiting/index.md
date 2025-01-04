@@ -2,7 +2,7 @@
 title: Revisiting Deep Feature Reconstruction for Logical and Structural Industrial
   Anomaly Detection
 authors:
-- admin
+- Sukanya Patra
 - Souhaib Ben Taieb
 date: '2024-01-01'
 publishDate: '2025-01-04T12:12:28.079748Z'
