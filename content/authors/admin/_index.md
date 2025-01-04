@@ -51,7 +51,7 @@ education:
   - area: MSc Computer Science
     institution: Eindhoven University of Technology
     date_start: 2019-09-01
-    date_end: 2021-08-31
+    date_end: 2021-09-01
     summary: |
       Thesis: Context-aware Adaptive Learning Framework for Handling Concept Drift.
   - area: BTech Information Technology
@@ -74,7 +74,7 @@ work:
     company_name: University of Mons
     company_url: 'https://web.umons.ac.be/en/'
     company_logo: ''
-    date_start: 2022-11-01
+    date_start: 2021-11-01
     date_end: ''
     summary: |2-
       Responsibilities include:
@@ -88,7 +88,7 @@ work:
     company_url: 'https://www.asml.com/en'
     company_logo: ''
     date_start: 2021-04-01
-    date_end: 2022-09-01
+    date_end: 2021-09-01
     summary: |2-
       Responsibilities include:
       - Building a context-aware machine learning framework that can adapt to concept drift.
