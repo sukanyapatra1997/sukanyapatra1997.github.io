@@ -31,13 +31,14 @@ sections:
           position: center
           parallax: false
   - block: collection
+    id: publications
     content:
-      title: Recent Publications
+      title: Publications
       text: ""
       filters:
         folders:
           - publication
-        exclude_featured: true
+        exclude_featured: false
     design:
       view: citation
   - block: markdown

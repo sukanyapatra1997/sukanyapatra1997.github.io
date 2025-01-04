@@ -2,7 +2,7 @@
 title: Detecting Abnormal Operations in Concentrated Solar Power Plants from Irregular
   Sequences of Thermal Images
 authors:
-- Sukanya Patra
+- admin
 - Nicolas Sournac
 - Souhaib Ben Taieb
 date: '2024-01-01'
